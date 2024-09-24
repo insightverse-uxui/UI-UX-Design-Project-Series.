@@ -3,7 +3,7 @@
 ## Project Overview
 This project involves the design of an e-learning company website aimed at providing an engaging and informative platform for users.
 
-## Design Choices
+
 
 ## Design Choices
 - **Color Scheme:**
